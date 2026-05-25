@@ -1,7 +1,4 @@
-## Task1:   A simple smart contract using solidity for a token transfer system.
-
-## Description:
-This Project is a part of Codtech Blockchain Internship.
+## A simple smart contract using solidity for a token transfer system.
 
 ## Requirements:
 - 1.Ganache
